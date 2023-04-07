@@ -1,4 +1,4 @@
-# aula_provider
+# exemplo_provider
 
 🚀 Esse repositório demonstra como utilizar o Provider como distribuidor/injetor de dependências no Flutter
 
