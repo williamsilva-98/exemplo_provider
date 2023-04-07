@@ -1,16 +1,15 @@
 # aula_provider
 
-Esse repositório demonstra como utilizar o Provider como distribuidor/injetor de dependências no Flutter
+🚀 Esse repositório demonstra como utilizar o Provider como distribuidor/injetor de dependências no Flutter
 
-## Getting Started
+## Aula completa no canal
+No nosso canal você pode acompanhar como esse projeto todo foi realizado
 
-This project is a starting point for a Flutter application.
+🔴 [Acessa aqui nosso canal](https://www.youtube.com/@williamsilvadev)
 
-A few resources to get you started if this is your first Flutter project:
+## Projeto final
+Essa será a cara do nosso projeto final
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/williamsilva-98/exemplo_provider/blob/master/exemple/foto.png" width="350" height="750">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
