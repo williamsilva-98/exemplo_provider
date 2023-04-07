@@ -1,6 +1,6 @@
 # aula_provider
 
-A new Flutter project.
+Esse repositório demonstra como utilizar o Provider como distribuidor/injetor de dependências no Flutter
 
 ## Getting Started
 
